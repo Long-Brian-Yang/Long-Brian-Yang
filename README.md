@@ -38,6 +38,10 @@ Welcome to my Github page! I am Brian and I am currently finishing my Computer E
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
+#### :about me
+-😄[Bolg]()
+
+
 <!--
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
 -->
