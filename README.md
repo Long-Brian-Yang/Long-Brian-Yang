@@ -5,7 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/long-yang-327292289/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:longyang2000110@gmail.com)
 
-Welcome to my Github page! I am Brian and I am currently finishing my Computer Engineering Master degree at Tokyo Institute of Tech!  
+Welcome to my Github page! 
+I am Brian and I am currently finishing my Computer Engineering Master degree at Tokyo Institute of Technology！
 
 <img align="right" alt="img" src="https://github.com/CodersheepY/CodersheepY/blob/main/TIT.jpg" width="50%" height="auto" />
 
