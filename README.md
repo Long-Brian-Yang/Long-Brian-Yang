@@ -1,5 +1,3 @@
-### Hi there 👋
-# BrianBlog.github.io
 ### Hi there 👋 
 ### This is Brian!
 
