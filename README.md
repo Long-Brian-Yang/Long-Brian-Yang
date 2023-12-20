@@ -9,7 +9,7 @@
 
 Welcome to my Github page! I am Brian and I am currently finishing my Computer Engineering Master degree at Tokyo Institute of Tech!  
 
-<img align="right" alt="img" src="https://github.com/CodersheepY/TIT.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/CodersheepY/CodersheepY/blob/main/TIT.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
