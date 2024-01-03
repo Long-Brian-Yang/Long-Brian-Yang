@@ -6,14 +6,15 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:longyang2000110@gmail.com)
 
 Welcome to my Github page! 
-I am Brian and I am currently finishing my Computer Engineering Master degree at Tokyo Institute of Technology！
+I am Brian and I am currently studying at Tokyo Institute of Technology for Computer Engineering Master degree！
 
 <img align="right" alt="img" src="https://github.com/CodersheepY/CodersheepY/blob/main/TIT.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
+- Studying Computer Engineering Master Degree  
+- Learning online open courses about Data Science and Machine Learning
+- Using/analyzing/developing the neural network potential (NNP) which is the machine-learning model for replacing the electronic structure calculation 
 - None 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
