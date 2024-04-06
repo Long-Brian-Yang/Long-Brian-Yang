@@ -7,15 +7,14 @@
 [![Gmail](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/codesheepbrian?igsh=MXZwdnBxY3JseTg4cg%3D%3D&utm_source=qr)
 
 Welcome to my Github page! 
-I am Brian and I am currently studying at Tokyo Institute of Technology for Computer Engineering Master degree！
+I am Brian and I am currently studying at TokyoTech for Enegy and Information Master degree！
 
 <img align="right" alt="img" src="https://github.com/CodersheepY/CodersheepY/blob/main/TIT.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Studying Computer Engineering Master Degree  
-- Learning online open courses about Data Science and Machine Learning
-- Using/analyzing/developing the neural network potential (NNP) which is the machine-learning model for replacing the electronic structure calculation 
+- Studying Computer  Chemistry 
+- Learning OCW about Data Science and Machine Learning
 - None 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
