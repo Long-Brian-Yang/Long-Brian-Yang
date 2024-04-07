@@ -14,7 +14,7 @@ I am Brian and I am currently studying at TokyoTech for Enegy and Information Ma
 
 #### 🌱 Things I am currently working on: 
 - Studying Computer  Chemistry 
-- Learning OCW about Data Science and Machine Learning
+- Learning about DFT and Machine Learning
 - None 🚀 *coming soon*
 
 #### :muscle: Everything Goes Well:
