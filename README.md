@@ -17,11 +17,11 @@ I am Brian and I am currently studying at TokyoTech for Enegy and Information Ma
 - Learning OCW about Data Science and Machine Learning
 - None 🚀 *coming soon*
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
+#### :muscle: Everything Goes Well:
+- Waking up earlier
 - Keep coding
 - Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Improving
 
 #### :computer: Programming languages and tools: 
 <p>
