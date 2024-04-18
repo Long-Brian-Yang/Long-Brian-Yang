@@ -4,7 +4,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CodersheepY)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/long-yang-327292289/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:longyang2000110@gmail.com)
-[![Gmail](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/codesheepbrian?igsh=MXZwdnBxY3JseTg4cg%3D%3D&utm_source=qr)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/codesheepbrian)
+
 
 Welcome to my Github page! 
 I am Brian and I am currently studying at TokyoTech for Enegy and Information Master degree！
