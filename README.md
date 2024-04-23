@@ -8,7 +8,7 @@
 
 
 Welcome to my Github page! 
-I am Brian and I am currently studying at TokyoTech for Enegy and Information Master degree！
+I am Brian and I am currently studying at TokyoTech for Energy and Information Master degree！
 
 <img align="right" alt="img" src="https://github.com/CodersheepY/CodersheepY/blob/main/TIT.jpg" width="50%" height="auto" />
 
