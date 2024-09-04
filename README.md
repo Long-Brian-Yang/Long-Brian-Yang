@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Brian!
+### This is LONG(Brian)YANG!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CodersheepY)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/long-yang-327292289/)
@@ -8,7 +8,7 @@
 
 
 Welcome to my Github page! 
-I am Brian and I am currently studying at TokyoTech for Energy and Information Master degree！
+I am LONG(Brian)YANG and I am currently studying at TokyoTech for Energy and Information Master degree！
 
 <img align="right" alt="img" src="https://github.com/CodersheepY/CodersheepY/blob/main/TIT.jpg" width="50%" height="auto" />
 
