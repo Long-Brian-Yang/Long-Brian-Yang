@@ -6,60 +6,47 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:longyang2000110@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/codesheepbrian)
 
-
-Welcome to my Github page! 
-I am LONG(Brian)YANG and I am currently studying at TokyoTech for Energy and Information Master degree！
-
-<img align="right" alt="img" src="https://github.com/CodersheepY/CodersheepY/blob/main/TIT.jpg" width="50%" height="auto" />
-
-
-#### 🌱 Things I am currently working on: 
-- Studying Computer  Chemistry 
-- Learning about DFT and Machine Learning
-- None 🚀 *coming soon*
-
-#### :muscle: Everything Goes Well:
-- Waking up earlier
-- Keep coding
-- Exercising 3 days a week
-- Improving
-
-#### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=CodersheepY&show_icons=true&hide_border=true" />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<p align="center">
+	<h1 height="200px" align="center">
+		Welcome to my Github page!
+	  <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></br>
+		I'm LONG(Brian)YANG
+  </h1>
+   <p align="center">I am LONG(Brian)YANG and I am currently studying at TokyoTech for Energy and Information Master degree！ 👨‍💻</p>
 </p>
 
-#### :about me
--😄🐇[Bolg]()
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
+  <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
+  <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
+  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
+</div>
+
+<br />
+<br />
+<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
+
+<!-- about me  -->
+<h2 height="200px" align="center">🎉 About Me</h2>
+<br />
+
+- 🔭 I’m currently working on computational chemistry ~
+- 🏋 I'm passionate about fitness, and it pays off ~
+- 👨‍💻 I'm passionate about coding and have been developing my skill ~
+- ⛺️ I have a private site: coming soon, you're welcome to come! ~
+- 📨 My email address is `longyang2000110@gmail.com` Welcome to contact me 👏🏻 ~
+- 👻
 
 
-<!--
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
--->
 
-<!--
-**CodersheepY/CodersheepY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
