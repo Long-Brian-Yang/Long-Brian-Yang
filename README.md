@@ -14,13 +14,15 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
-  <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
-  <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
@@ -33,7 +35,8 @@
 <br />
 <br />
 <!-- Profile Picture -->
-<img align="right" src="./TIT.jpg" width="300" height="auto">
+<!-- Any image aligned to the right. Beware the width -->
+<img width="40%" align="right" src="./TIT.jpg" />
 
 
 <!-- about me  -->
@@ -55,6 +58,7 @@
 </picture>
 
 <!-- see: https://github.com/lowlighter/metrics -->
+<h2 height="200px" align="center">📊 Github Stats & Metrics</h2>
 <table align="center">
   <tr>
     <td align="center">
@@ -62,7 +66,7 @@
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
     </td>
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=CodersheepY&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=CodersheepY&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FFFFFF00"/>
     </td>
   </tr>
 </table>
