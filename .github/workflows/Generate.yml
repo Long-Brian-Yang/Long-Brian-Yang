@@ -1,17 +1,27 @@
-+ name: Generate
+name: Generate
+
+on:
+  push:
+    branches:
+      - main  
+
 jobs:
-+ # 生成统计图, see: https://github.com/lowlighter/metrics
-+ github-metrics:
-+   runs-on: ubuntu-latest
-+   steps:
-+     - name: metrics-Half-year-calendar
-+       uses: lowlighter/metrics@latest
-+       with:
-+         base: ""
-+         filename: assets/metrics.plugin.isocalendar.svg
-+         token: ${{ github.token }}
-+         plugin_isocalendar: yes
-+ 
+  generate-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2  
+
+      - name: Generate Metrics - Half-Year Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.isocalendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ''
+          plugin_isocalendar: yes
+
   github-Snake:
     runs-on: ubuntu-latest
-  ....
+    steps:
+      - name: Run GitHub Snake Game
+        run: echo "Replace this with actual steps to run the GitHub Snake game"
