@@ -35,7 +35,9 @@
 
 <br />
 <br />
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
+<!-- Profile Picture -->
+<img align="right" src="./TIT.jpg" width="400" height="auto">
+
 
 <!-- about me  -->
 <h2 height="200px" align="center">🎉 About Me</h2>
