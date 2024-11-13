@@ -36,7 +36,7 @@
 <br />
 <!-- Profile Picture -->
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" align="right" src="./bg.JPG" />
+<img width="40%" align="right" src="./TIT.jpg" />
 
 
 <!-- about me  -->
