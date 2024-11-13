@@ -1,8 +1,3 @@
-# [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CodersheepY)
-# [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/long-yang-327292289/)
-# [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:longyang2000110@gmail.com)
-# [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/codesheepbrian)
-
 <p align="center">
 	<h1 height="200px" align="center">
 		Welcome to my Github page!
