@@ -36,7 +36,7 @@
 <br />
 <!-- Profile Picture -->
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" align="right" src="./TIT.jpg" />
+<img width="40%" align="right" src="./bg.JPG" />
 
 
 <!-- about me  -->
@@ -66,7 +66,7 @@
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
     </td>
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=CodersheepY&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FFFFFF00"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Long-Brian-Yang&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FFFFFF00"/>
     </td>
   </tr>
 </table>
