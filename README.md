@@ -41,7 +41,7 @@
 - 🔭 I’m currently working on computational chemistry ~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- ⛺️ I have a private site: coming soon, you're welcome to come! ~
+- ⛺️ I have a private site: [mypage](https://long-brian-yang.github.io/), you're welcome to come! ~
 - 📨 My email address is `longyang2000110@gmail.com` Welcome to contact me 👏🏻 ~
 - 👻
 
