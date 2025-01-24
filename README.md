@@ -41,7 +41,7 @@
 - 🔭 I’m currently working on computational chemistry ~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- ⛺️ I have a private site: [mypage](https://long-brian-yang.github.io/), you're welcome to come! ~
+- ⛺️ I have a private site: [MyPage](https://long-brian-yang.github.io/), you're welcome to come! ~
 - 📨 My email address is `longyang2000110@gmail.com` Welcome to contact me 👏🏻 ~
 - 👻
 
@@ -61,8 +61,7 @@
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
     </td>
     <td align="left">
-      <!-- 使用 Anurag's GitHub stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Long-Brian-Yang&theme=default&show_icons=true" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Long-Brian-Yang&show_icons=true&rank_icon=github&theme=Default" />
     </td>
   </tr>
 </table>
