@@ -61,7 +61,8 @@
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
     </td>
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=Long-Brian-Yang&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FFFFFF00"/>
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=Long-Brian-Yang&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FFFFFF00"/> -->
+	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Long-Brian-Yang)](https://github.com/anuraghazra/github-readme-stats)
     </td>
   </tr>
 </table>
