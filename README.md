@@ -52,6 +52,7 @@
         <h4>Frameworks & Libraries</h4>
         <p>
           <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+	  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
           <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
           <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
           <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
@@ -62,6 +63,8 @@
           <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
           <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+	  <img src="https://img.shields.io/badge/-ASE-FF6600?style=flat&logoColor=white">
+          <img src="https://img.shields.io/badge/-Pymatgen-0033A0?style=flat&logoColor=white">
         </p>
       </td>
       <td align="center" width="33%">
@@ -71,8 +74,6 @@
           <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white">
           <img src="https://img.shields.io/badge/-VASP-336791?style=flat&logoColor=white">
           <img src="https://img.shields.io/badge/-VESTA-8A2BE2?style=flat&logoColor=white">
-          <img src="https://img.shields.io/badge/-ASE-FF6600?style=flat&logoColor=white">
-          <img src="https://img.shields.io/badge/-Pymatgen-0033A0?style=flat&logoColor=white">
           <img src="https://img.shields.io/badge/-LAMMPS-FF5733?style=flat&logoColor=white">
           <img src="https://img.shields.io/badge/-VASPkit-336791?style=flat&logoColor=white">
           <img src="https://img.shields.io/badge/-OVITO-4CAF50?style=flat&logoColor=white">
