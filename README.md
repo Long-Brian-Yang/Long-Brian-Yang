@@ -14,7 +14,7 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 I am currently a Master's student at <b>Tokyo Institute of Technology</b>, specializing in <b>Energy and Information</b>.</li>      
+        <li>🎓 I am currently a Master's student at <b>Institute of Science Tokyo</b>(Tokyo Institute of Technology), specializing in <b>Energy and Information</b>.</li>      
 	<li>🔬 My research focuses on <b>AI4Science</b> (<b>computational chemistry</b>, <b>molecular dynamics</b>, <b>neural network potentials (NNP)</b>) 
         <li>👨‍💻 Proficient in multiple programming languages and frameworks for both scientific computing and software development.</li>
         <li>🏋️ Staying active and exercising regularly to maintain a healthy body and sharp mind.</li>
