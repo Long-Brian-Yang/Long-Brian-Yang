@@ -20,7 +20,7 @@
         <li>🏋️ Staying active and exercising regularly to maintain a healthy body and sharp mind.</li>
         <li>🌍 Passionate about traveling, Japanese history, and exploring cross-cultural experiences.</li>
         <li>⛺️ Visit my personal site: <a href="https://long-brian-yang.github.io/" target="_blank">MyPage</a></li>
-        <li>📧 Contact: <b>longyang2000110@gmail.com</b></li>
+        <li>📧 Contact: <b>longyang2000110(at)gmail.com</b></li>
       </ul>
     </td>
     <td width="40%" align="center">
