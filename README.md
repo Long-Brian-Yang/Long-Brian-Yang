@@ -5,7 +5,7 @@
   </h1>
 </p>
 
-<!-- 个人介绍 -->
+<!-- Introduction -->
 <div align="center">
   <h2>🎉 About Me</h2>
 </div>
@@ -14,11 +14,11 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 I am currently a Ph.D student@<b>Institute of Science Tokyo</b>(Tokyo Institute of Technology), specializing in <b>AI4Science</b>.</li>      
-	<li>🔬 My research focuses on <b>AI4Science</b> (<b>computational chemistry</b>, <b>molecular dynamics</b>, <b>neural network potentials (NNPs)</b>) 
+        <li>🎓 Ph.D student@<b>Institute of Science Tokyo</b>(Tokyo Institute of Technology), specializing in <b>AI4Science</b>.</li>      
+	<li>🔬 My research focuses on <b>AI4Science</b> (<b>computational chemistry</b>, <b>molecular dynamics</b>, <b> machine learning potential (MLP)</b>) 
         <li>👨‍💻 Proficient in multiple programming languages and frameworks for both scientific computing and software development.</li>
         <li>🏋️ Staying active and exercising regularly to maintain a healthy body and sharp mind.</li>
-        <li>🌍 Passionate about traveling, Japanese history, and exploring cross-cultural experiences.</li>
+        <li>🌍 Passionate about traveling, history, and exploring cross-cultural experiences.</li>
         <li>⛺️ Visit my personal site: <a href="https://long-brian-yang.github.io/" target="_blank">MyPage</a></li>
         <li>📧 Contact: <b>longyang2000110(at)gmail.com</b></li>
       </ul>
@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-<!-- 技能展示 -->
+<!-- Tech -->
 <div align="center">
   <h2>🛠️ My Tech Stack</h2>
   <table>
@@ -117,7 +117,7 @@
   </table>
 </div>
 
-<!-- GitHub 动态 -->
+<!-- GitHub stats -->
 <h2 align="center">📊 Github Stats & Metrics</h2>
 <table align="center">
   <tr>
