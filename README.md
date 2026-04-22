@@ -16,9 +16,6 @@
       <ul>
         <li>🎓 Ph.D student@<b>Institute of Science Tokyo</b>(Tokyo Institute of Technology).</li>      
 	<li>🔬 My research focuses on <b>AI4Science</b> (<b>computational chemistry</b>, <b>molecular dynamics</b>, <b> machine learning potential (MLP)</b>) 
-        <li>👨‍💻 Proficient in multiple programming languages and frameworks for both scientific computing and software development.</li>
-        <li>🏋️ Staying active and exercising regularly to maintain a healthy body and sharp mind.</li>
-        <li>🌍 Passionate about traveling, history, and exploring cross-cultural experiences.</li>
         <li>⛺️ Visit my personal site: <a href="https://long-brian-yang.github.io/" target="_blank">MyPage</a></li>
         <li>📧 Contact: <b>longyang2000110(at)gmail.com</b></li>
       </ul>
