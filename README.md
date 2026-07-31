@@ -1,13 +1,6 @@
-<p align="center">
-  <h1 height="200px" align="center">
-    Welcome to my GitHub page! 
-    <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></br>
-  </h1>
-</p>
-
 <!-- Introduction -->
 <div align="center">
-  <h2>🎉 About Me</h2>
+  <h2>About Me</h2>
 </div>
 
 <table>
