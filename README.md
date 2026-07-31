@@ -14,8 +14,8 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 Ph.D student@<b>Institute of Science Tokyo</b>(Tokyo Institute of Technology).</li>      
-	<li>🔬 My research focuses on <b>AI4Science</b> (<b>computational chemistry</b>, <b>molecular dynamics</b>, <b> machine learning potential (MLP)</b>) 
+        <li>🎓 Ph.D student@Institute of Science Tokyo(Tokyo Institute of Technology).</li>      
+	<li>🔬 My research focuses on AI4Science
         <li>⛺️ Visit my personal site: <a href="https://long-brian-yang.github.io/" target="_blank">MyPage</a></li>
         <li>📧 Contact: <b>longyang2000110(at)gmail.com</b></li>
       </ul>
